@@ -1,1 +1,0 @@
-# microcms-next-jamstack-blog
